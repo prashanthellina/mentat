@@ -1,11 +1,9 @@
-Mentat:
+=Mentat=
 
 
 
 Vision -- Making general information easily accessible to people in a household
 
-
-Bingo
 
 
 Use cases:
@@ -209,4 +207,3 @@ Tatagarus -- Old man
 -- Finger print device / Voice fingerprinting to recognize user and change profile
 
 -- Music/video/books tie-ups with big companies such as landmark etc, to download compresed format and watch for a fee.
-
