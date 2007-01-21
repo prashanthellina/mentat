@@ -174,7 +174,7 @@ Tolstoy -- College Student
 
 -- SMS gaming
 
-
+-- Paper search
 
 
 
@@ -195,14 +195,6 @@ Tatagarus -- Old man
 -- panchangam + good time/bad time
 
 -- travel planning
-
-
-
-
-
-
-
-
 
 -- Finger print device / Voice fingerprinting to recognize user and change profile
 
