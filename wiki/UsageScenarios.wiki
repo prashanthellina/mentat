@@ -1,0 +1,213 @@
+Mentat:
+
+
+
+Vision -- Making general information easily accessible to people in a household
+
+
+
+
+
+Use cases:
+
+
+
+Prashanth Azharuddin -- S/w Engineer
+
+
+
+-- List of contacts/ phone nos / birthdates / anniversaries etc, call journals etc.
+
+-- email on touch panels
+
+-- movies
+
+-- music/books
+
+-- expenses
+
+-- software news/ headlines
+
+-- sports/scores/stats
+
+-- eatouts (areawise), contacts, menu
+
+-- Location awareness (cell phones)
+
+-- travel and holiday planning
+
+-- sale
+
+-- classifieds
+
+-- Encyclopedia/Dictionary/Thesauraus
+
+-- Auctions/buying/selling
+
+-- Checklists
+
+-- Sensor grocery
+
+-- Collaborative contact info maintenance ( updation etc..)
+
+-- TV schedule, and programmed recording 
+
+-- Interesting videos (youtube/metacafe)
+
+
+
+Prabha Azharuddin -- Working Mom
+
+
+
+-- Grocery maintainance
+
+-- Recipe suggestions 
+
+-- Contact module
+
+-- Travel/Holiday plans
+
+-- Computerised postal mails
+
+-- Subscription maintenance
+
+-- Bill payment alerts (Electricity, Mobile, Cable TV)
+
+-- Medical History Maintenance
+
+-- Health status monitoring (BP, Weight (floor mat))
+
+-- Diet planning linked to recipe module
+
+-- Accounts
+
+-- TV schedule, and programmed recording 
+
+-- Auspicious panchangam, temple planning, good time/bad time 
+
+-- Kutcheri itinerary
+
+-- Music playback (from online sites. musicindiaonline, tamilsongs.net. Carnatic, film songs etc)
+
+-- Weather information
+
+
+
+
+
+Vijaya Ellina -- House wife 
+
+
+
+-- Grocery Maintainence
+
+-- Recipe suggestions
+
+-- Computerised postal mails
+
+-- Email from dear ones (with photo alert on the touch screen) + voice reply
+
+-- Accounts
+
+-- Gift suggestions
+
+-- Vegetable prices
+
+-- TV + Recording. 
+
+-- Alarms
+
+-- Housemaid + Milk + newspaper tallying
+
+-- Calendar support + Todo list
+
+-- Video conferencing
+
+-- Chatting
+
+-- clothes line sensing and drying alert (rain sensing)
+
+-- milk boiling sensor
+
+
+
+Azharuddin -- Businessman
+
+
+
+-- Contacts
+
+-- Travel plans
+
+-- Emails
+
+-- Economic news (continuously updated)
+
+-- Stock information
+
+-- TV/songs
+
+-- Sale
+
+-- Movies
+
+--
+
+
+
+Tolstoy -- College Student
+
+
+
+-- Interesting videos (youtube/metacafe)
+
+-- Movies/Books/Music suggestions
+
+-- Wikipedia
+
+-- exam time tables / scores maintenance
+
+-- Reference material
+
+-- Calendar + Todo lists
+
+-- Games online
+
+-- SMS gaming
+
+
+
+
+
+Tatagarus -- Old man
+
+-- Political news
+
+-- computerized postal mail
+
+-- Video/Audio conferencing
+
+-- Mobile based voice messages
+
+-- photo album (dear ones can send photos which will be displayed)
+
+-- request for print outs should be taken
+
+-- panchangam + good time/bad time
+
+-- travel planning
+
+
+
+
+
+
+
+
+
+-- Finger print device / Voice fingerprinting to recognize user and change profile
+
+-- Music/video/books tie-ups with big companies such as landmark etc, to download compresed format and watch for a fee.
+
+
