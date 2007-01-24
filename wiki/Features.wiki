@@ -14,13 +14,49 @@
     * Integration of all info (call logs, web logs, history, news?)
 
   * Wikipedia, Dictionary, Thesaurus
+    * Simple and easy to use interface
+    * Maintain history of articles read
+    * Harvest history info to figure out user interests
+    * SMS request for wiki article should get first paragraph
+
   * News
+    * RSS feeds integration
+
   * Checklists
+    * Simple interface to View, Edit and Use checklists
+    * Facility to share checklists (like wiki)
+
   * Email
+    * Simple interface to email
+    * Dumb interface to keep in touch with small number of people
+      (near and dear email)
+
   * Recipe suggestions
+    * Recipe database (Addition, deletion and updation)
+    * Recipe sharing
+    * Recipe suggestions
+
   * Online Music
+    * Playlist creation on online music
+    * Autoplay of selected music at certain time
+
   * Photo maintenance and Slide show
+    * Photo sharing and slide show
+    * Photos should slide show as wallpaper
+
   * TV and recording
+    * TV Tuner card based viewing and recording
+    * Integration of TV schedule information
+
   * Accounts
+    * Simple accounting interface
+    * Money spent, received, loaned etc
+    * Access through SMS
+
   * Audio / Video conferencing
+    * Integrate into contacts
+    * Dumb interface
+
   * Travel and Holiday planning
+    * Integrate into calendar
+    * Automatic online booking of tickets
