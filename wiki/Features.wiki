@@ -1,11 +1,23 @@
   * Contacts
+    * Simple interface for viewing and editing
+    * Automatic parsing of blobs to extract fields
+    * Viewing and Edition of contacts through SMS
+    * Contact actionables
+      * Call, SMS, Email, Greeting, Postal mail
+    * Keep contact info up-to-date (collaborative contact maintenance)
+
   * Calendar + Todo + Alerts + Alarm
+    * Panchangam integration
+    * Visual cues to indicate good time / bad time
+    * Weather information integration an visual cues
+    * Integration of Holiday planning and visual cues
+    * Integration of all info (call logs, web logs, history, news?)
+
   * Wikipedia, Dictionary, Thesaurus
   * News
   * Checklists
   * Email
   * Recipe suggestions
-  * Weather
   * Online Music
   * Photo maintenance and Slide show
   * TV and recording
