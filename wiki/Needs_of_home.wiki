@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+
 
 = Introduction =
 
@@ -18,6 +18,5 @@ I was thinking of the most common things that a house wife would like to do sitt
  We can provide an eye into another house through this. Imagine a lady who likes to see what her grandchild is doing in USA. she shud be able to instantly turn on the webcam(by touching a button) and see her son's house and call them! make a beep to get their attention :) 
  
 Instead of providing a physical keyboard, we cud code an electronic version on screen. why have a touch screen monitor and still go for wired keyboard! 
-
 
 
