@@ -1,0 +1,19 @@
+# Introduction #
+
+I was thinking of the most common things that a house wife would like to do sitting at home
+
+
+1. Order for provisions
+> we can do this by having a link up with a supermarket chain like subhiksha. Imagine an AD flashing on the screen saying  "buy  5 kg of wheat and get 1 kg of basmati rice free" all u have to do to order shud be to touch the "order now" button and it shud be delivered at your doorstep in the 10th minute.
+
+2. Bakthi
+> We can have a folder/concept called Religion into which videos pertaining to different religions will go into their respective folders - hindu, Islam, christian etc. Depending on the user preferance we cud play the new videos as and when they arrive (during idle time)
+
+3. Magazines
+> check http://www.kumudam.com , its a tamil junk mag that gives videos.. how about playing them during idle time?
+
+4. To keep seeing their loved ones.
+> We can provide an eye into another house through this. Imagine a lady who likes to see what her grandchild is doing in USA. she shud be able to instantly turn on the webcam(by touching a button) and see her son's house and call them! make a beep to get their attention :)
+
+Instead of providing a physical keyboard, we cud code an electronic version on screen. why have a touch screen monitor and still go for wired keyboard!
+
